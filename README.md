@@ -6,7 +6,7 @@ J-POP FAN and 二次元愛好家です
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RIMECHU&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<img align="right" width="450" src="108561687_p26.jpg" >
+<img align="right" width="350" src="108561687_p26.jpg" >
 
 ![RIMECHU's GitHub stats](https://github-readme-stats.vercel.app/api?username=RIMECHU&show_icons=true&count_private=true&theme=radical)
 
