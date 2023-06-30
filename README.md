@@ -3,6 +3,8 @@
 ![RIMECHU's GitHub stats](https://github-readme-stats.vercel.app/api?username=RIMECHU&show_icons=true&count_private=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RIMECHU&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RIMECHU&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--
 **RIMECHU/RIMECHU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
