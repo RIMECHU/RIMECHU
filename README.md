@@ -1,5 +1,7 @@
 ### Hi there ,I'm [RIME CHU](mina7mi.cn)👋
 
+<img align="right" width="450" src="https://cdn.jsdelivr.net/gh/Nova-Noir/Nova-Noir/立绘_浊心斯卡蒂_skin1.png">
+
 ![RIMECHU's GitHub stats](https://github-readme-stats.vercel.app/api?username=RIMECHU&show_icons=true&count_private=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RIMECHU&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
