@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there ,I'm [RIME CHU](mina7mi.cn)👋
 
 ![RIMECHU's GitHub stats](https://github-readme-stats.vercel.app/api?username=RIMECHU&show_icons=true&count_private=true&theme=radical)
 
